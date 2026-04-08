@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="nebula-logo.png" alt="Nebula NB Logo" width="120" />
+  <img src="logo.png" alt="Nebula NB Logo" width="120" />
 </p>
 
 ## 🚀 Founder of Nebula NB | Creator of Nebula WorkEnv | Author
