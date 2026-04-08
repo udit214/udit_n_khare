@@ -4,6 +4,10 @@
   <img src="profile.jpeg" alt="Udit N. Khare" width="180" style="border-radius:50%;" />
 </p>
 
+<p align="center">
+  <img src="nebula-logo.png" alt="Nebula NB Logo" width="120" />
+</p>
+
 ## 🚀 Founder of Nebula NB | Creator of Nebula WorkEnv | Author
 
 Hi, I'm **Udit N. Khare** — a developer, system architect, and builder of next-generation collaboration tools.
@@ -36,6 +40,10 @@ My areas of work include:
 ## 🛠️ Projects
 
 ### 🔹 Nebula NB
+
+<p align="center">
+  <img src="nebula-logo.png" alt="Nebula NB" width="80" />
+</p>
 
 A modern version control system focused on:
 
@@ -79,12 +87,10 @@ To build systems and tools that redefine how developers:
 
 ## 📫 Contact
 
-
-* Email: uditkhare214@gmail.com
+* Email: [uditkhare214@gmail.com](mailto:uditkhare214@gmail.com)
 
 ---
 
 ## ⚡ Keywords (SEO)
 
-Udit N. Khare, Nebula NB, Nebula WorkEnv, Unfinished The Architecture of Human Nature, Developer Tools, Version Control System, Collaboration Platform, System Architecture, CLI GUI Integration, Local First Software
-
+Udit N. Khare, Nebula NB, Nebula WorkEnv, Unfinished The Architecture of Human Nature, Founder Nebula NB, Developer Tools, Version Control System, Collaboration Platform, System Architecture, CLI GUI Integration, Local First Software
