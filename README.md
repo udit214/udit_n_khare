@@ -1,7 +1,7 @@
 # Udit N. Khare
 
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Udit N. Khare" width="180" style="border-radius:50%;" />
+  <img src="profile.jpeg" alt="Udit N. Khare" width="180" style="border-radius:50%;" />
 </p>
 
 ## 🚀 Founder of Nebula NB | Creator of Nebula WorkEnv | Author
