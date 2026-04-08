@@ -79,8 +79,8 @@ To build systems and tools that redefine how developers:
 
 ## 📫 Contact
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+
+* Email: uditkhare214@gmail.com
 
 ---
 
